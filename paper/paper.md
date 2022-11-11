@@ -8,14 +8,17 @@ tags:
 authors:
   - name: Nadège Guiglielmoni
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Linelle Abueg
     affiliation: 2
+  - name: Place Holder
+    affiliation: 3
 affiliations:
   - name: Universität zu Köln
     index: 1
-  - name: Second Affiliation
+  - name: The Rockefeller University
     index: 2
+  - name: Placeholder Affiliation
+    index: 3
 date: 8 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
