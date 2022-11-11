@@ -1,18 +1,18 @@
 ---
-title: 'BioHackEU22 Template'
-title_short: 'BioHackEU22 #26: unknown chemical substances'
+title: 'BioHackEU22 #6: Building a robust and reproducible assembly and annotation pipeline for non-model eukaryote genomes'
+title_short: 'Eukaryotic Genome Assembly, Annotation, and Evaluation'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - genome assembly
+  - genome annotation
+  - genome evaluation
 authors:
-  - name: First Author
+  - name: Nadège Guiglielmoni
     affiliation: 1
   - name: Last Author
     orcid: 0000-0000-0000-0000
     affiliation: 2
 affiliations:
-  - name: First Affiliation
+  - name: Universität zu Köln
     index: 1
   - name: Second Affiliation
     index: 2
@@ -22,9 +22,9 @@ event: BH22EU
 biohackathon_name: "BioHackathon Europe 2022"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Paris, France, 2022"
-group: Project 26
+group: Project 6
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/abueg/2022-biohackathon-bhxiv
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: First Author \emph{et al.}
