@@ -35,22 +35,26 @@ authors_short: First Author \emph{et al.}
 
 As part of the BioHackathon Europe 2022, we here report...
 
-# Formatting
+# Oxford Nanopore (ONT) pipeline improvements
 
-This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
+Intro sentence
 
-## Subsection level 2
+## Integration of high quality (HQ) ONT reads
 
-Please keep sections to a maximum of only two levels.
+Blah
 
-## Tables and figures
+# New tool integrations in Bioconda and Galaxy
 
-Tables can be added in the following way, though alternatives are possible:
+We implemented many tools in Bioconda and as Galaxy tool wrappers, thus increasing the availability of these important assembly & annotation software to a broader audience. This will help facilitate these computationally intensive analyses, since users will not have to go through laborious installations on their local computational resources.
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+| Software name | Category | Description | Status before BHEU22 | Status after BHEU22
+| -------- | -------- | -------- | -------- | -------- 
+| instaGRAAL | Assembly | description | Docker image | Galaxy tool
+| NextDenovo | Assembly | description | no conda package | conda package
+| hicstuff | Assembly | description | conda package | Galaxy tool (WIP)
+| Ratatosk | Annotation | description | no conda package | conda package
+| BandageNG | Evaluation | description | no conda package; Galaxy tool outdated | Galaxy tool using new BandageNG
+| FASTK | Evaluation | description | no conda package | conda package
 
 Table: Note that table caption is automatically numbered.
 
