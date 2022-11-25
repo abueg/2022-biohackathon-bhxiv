@@ -10,14 +10,14 @@ authors:
     affiliation: 1
   - name: Linelle Abueg
     affiliation: 2
-  - name: Place Holder
+  - name: Loraine Brillet-Guéguen
     affiliation: 3
 affiliations:
   - name: Universität zu Köln
     index: 1
   - name: The Rockefeller University
     index: 2
-  - name: Placeholder Affiliation
+  - name: UMR8227 / ABiMS-FR2424, CNRS / Sorbonne Université Station Biologique de Roscoff, France
     index: 3
 date: 8 November 2022
 cito-bibliography: paper.bib
@@ -54,7 +54,7 @@ We implemented many tools in Bioconda and as Galaxy tool wrappers, thus increasi
 | -------- | -------- | -------- | -------- | -------- 
 | instaGRAAL | Assembly | description | Docker image | Galaxy tool
 | NextDenovo | Assembly | description | no conda package | conda package
-| hicstuff | Assembly | description | conda package | Galaxy tool (WIP)
+| hicstuff | Assembly | description | conda package | Galaxy tool
 | Ratatosk | Annotation | description | no conda package | conda package
 | BandageNG | Evaluation | description | no conda package; Galaxy tool outdated | Galaxy tool using new BandageNG
 | FASTK | Evaluation | description | no conda package | conda package
